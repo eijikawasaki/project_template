@@ -2,8 +2,10 @@
 
 This is a template for future projects. The README is in markdown format.
 
-Heading
-=======
+##Running the tests
+
+```  python -m pytest tests ```
+
 
 ## Sub-heading
 

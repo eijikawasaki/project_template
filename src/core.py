@@ -12,6 +12,7 @@ class ClassTemplate:
         Method's comments
         """
         self.Attribute = False
-        print("Hello world")
+        txt = "Hello world"
+        print("txt")
         logging.info("hello_world method was used.")
-
+        return txt
