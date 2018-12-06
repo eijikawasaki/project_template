@@ -1,3 +1,6 @@
+import logging
+
+
 class ClassTemplate:
     """
     Class' comments
@@ -10,4 +13,5 @@ class ClassTemplate:
         """
         self.Attribute = False
         print("Hello world")
+        logging.info("hello_world method was used.")
 
