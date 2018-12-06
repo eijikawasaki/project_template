@@ -2,7 +2,7 @@
 
 This is a template for future projects. The README is in markdown format.
 
-##Running the tests
+## Running the tests
 
 ```  python -m pytest tests ```
 
