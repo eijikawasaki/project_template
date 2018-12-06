@@ -4,8 +4,11 @@ This is a template for future projects. The README is in markdown format.
 
 ## Running the tests
 
-```  python -m pytest tests ```
+``` python -m pytest tests ```
 
+## Compiling the documentation
+
+``` sphinx-build docs/source docs/build ```
 
 ## Sub-heading
 

@@ -13,6 +13,6 @@ class ClassTemplate:
         """
         self.Attribute = False
         txt = "Hello world"
-        print("txt")
+        print(txt)
         logging.info("hello_world method was used.")
         return txt
